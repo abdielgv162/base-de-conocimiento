@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "da1b2cb942d3d01e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bb63269ef3d3cdc",
+        "type": "tabs",
+        "dimension": 38.79348304711581,
+        "children": [
+          {
+            "id": "04f22fb7b2a21c86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "home"
+            }
+          },
+          {
+            "id": "8b851171102c3ff5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Plantilla-Proyecto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Plantilla-Proyecto"
+            }
+          },
+          {
+            "id": "d3d64857202133dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Musica.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Musica"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "5b0436f2350f6c7c",
+        "type": "tabs",
+        "dimension": 61.20651695288419,
+        "children": [
+          {
+            "id": "4a37a5e53bab3a3e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "923366eebd93644a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6c3e79b316e7b0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ee6913dbe9c8a52",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "7ba27283c4435e8d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "3378f2697ecf973f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d083feed53478b00",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5475ed2a2d48179",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c46c2094339a50af",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Musica.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Musica"
+            }
+          },
+          {
+            "id": "9e4564563d840649",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Musica.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Musica"
+            }
+          },
+          {
+            "id": "95dbd0e3df0466b4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "5a7e0489007484b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Musica.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Musica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Crear nuevo lienzo": false,
+      "bases:Crear nueva base": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "d3d64857202133dd",
+  "lastOpenFiles": [
+    "Soporte-Tecnico.md",
+    "Proyectos.md",
+    "Musica.md",
+    "home.md",
+    "templates/Plantilla-Proyecto.md",
+    "Sin título.md",
+    "Pasted image 20260203235104.png",
+    "templates",
+    "30.md",
+    "Sin título.canvas",
+    "Welcome.md"
+  ]
+}
