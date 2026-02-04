@@ -1,0 +1,28 @@
+# Obsidian - NO SUBIR
+.obsidian/
+*.canvas
+*.excalidraw
+
+# MkDocs
+site/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+*.egg-info/
+.pytest_cache/
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+*.swo
+
+# Datos personales
+*.key
+*.pem
+.env
+secrets.txt
+

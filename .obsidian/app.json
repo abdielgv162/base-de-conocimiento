@@ -1,4 +1,7 @@
 {
   "showLineNumber": true,
-  "attachmentFolderPath": "/assets"
+  "attachmentFolderPath": "/assets",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "/docs",
+  "alwaysUpdateLinks": true
 }
